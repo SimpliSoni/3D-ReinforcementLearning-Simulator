@@ -2,6 +2,9 @@
 
 An interactive, web-based simulator for visualizing reinforcement learning policies in 3D environments
 
+<img width="1336" height="650" alt="image" src="https://github.com/user-attachments/assets/0595c460-1b49-4a7a-bec5-de1ca0044d77" />
+
+
 -----
 
   * **Render 3D Environments**: Load and display different simulation environments, like a Grid World.
@@ -17,7 +20,6 @@ This tool is invaluable for students, researchers, and developers who need to br
 
   * React
   * Three.js
-  * WebGL
 
 -----
 
